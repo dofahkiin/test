@@ -1,2 +1,1 @@
-print ("New feature")
-print ("New2")
+print ("New branch")
