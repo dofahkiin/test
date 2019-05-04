@@ -1,2 +1,2 @@
 print ("New feature")
-print ("New")
+print ("New2")
