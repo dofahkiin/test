@@ -1,2 +1,2 @@
-Test 123 --izmjena master
+Test 123 --izmjena master i backup
 Test 114
